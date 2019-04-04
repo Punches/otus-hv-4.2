@@ -1,5 +1,18 @@
 # Declination by number
 
+### Installation
+
+
+```sh
+$ git clone https://github.com/Punches/otus-hv-4.2.git
+```
+
+or 
+
+```sh
+$ composer require punches/otus-hv-4.2
+```
+
 ### Usage
 
 ```php
